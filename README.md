@@ -1,1 +1,1 @@
-# odin-linked-list
+My implementation of a linked list with usefull methods
